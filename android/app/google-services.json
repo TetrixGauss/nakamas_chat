@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "714636033614",
+    "project_id": "nakamas-chat",
+    "storage_bucket": "nakamas-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714636033614:android:96b875cdec1cb2dd7d8d1f",
+        "android_client_info": {
+          "package_name": "com.tetrix.nakamas_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714636033614-crob96643u72ileif3ldo2qcvg57i90n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetrix.nakamas_chat",
+            "certificate_hash": "f5952f828b267341f6552d73d7f2dc37c7f679a2"
+          }
+        },
+        {
+          "client_id": "714636033614-f7vbpogvdjdjvfjtl33sgdvgvbvl83hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoG12ELPN-eNUurkRvyfnLUETB5aB445c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714636033614-f7vbpogvdjdjvfjtl33sgdvgvbvl83hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
